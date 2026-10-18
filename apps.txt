@@ -1,0 +1,5 @@
+# Purpose-selected Flathub app IDs
+com.vscodium.codium
+org.blender.Blender
+org.mozilla.firefox
+com.opera.opera-gx
