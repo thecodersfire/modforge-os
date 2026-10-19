@@ -24,3 +24,9 @@ The `modforge.svg` wallpaper is original. Modforge OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for game modding.
 
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Prism Launcher, Godot Engine, Inkscape**. See [FEATURES.md](FEATURES.md).

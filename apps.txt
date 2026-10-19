@@ -3,3 +3,8 @@ com.vscodium.codium
 org.blender.Blender
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.prismlauncher.PrismLauncher
+org.godotengine.Godot
+org.inkscape.Inkscape
