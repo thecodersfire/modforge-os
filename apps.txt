@@ -20,3 +20,20 @@ com.github.tchx84.Flatseal
 org.gnome.TextEditor
 org.gnome.Calendar
 org.gnome.clocks
+
+# Fifteen additional preinstalled purpose-specific applications
+org.libretro.RetroArch
+org.DolphinEmu.dolphin-emu
+org.ppsspp.PPSSPP
+net.pcsx2.PCSX2
+org.mamedev.MAME
+com.github.Matoking.protontricks
+org.gnome.gitg
+org.gnome.Evolution
+org.mozilla.Thunderbird
+org.gnome.Extensions
+org.gnome.Papers
+org.gnome.Weather
+org.gnome.Contacts
+org.gnome.SoundRecorder
+com.rawtherapee.RawTherapee
