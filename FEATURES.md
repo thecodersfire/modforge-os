@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for game modding:
 3. **Inkscape** — org.inkscape.Inkscape
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for game modding:
+
+1. **OBS Studio** — record or stream sessions (com.obsproject.Studio)
+2. **VLC** — review media files (org.videolan.VLC)
+3. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+4. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+5. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+6. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
+7. **Flatseal** — review Flatpak app permissions (com.github.tchx84.Flatseal)
+8. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+9. **GNOME Calendar** — schedule sessions, deadlines, and events (org.gnome.Calendar)
+10. **GNOME Clocks** — time work sessions and events (org.gnome.clocks)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
