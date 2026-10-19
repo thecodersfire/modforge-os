@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ask(){ local answer; read -r -p "$1 [y/N] " answer; [[ "$answer" =~ ^[Yy]([Ee][Ss])?$ ]]; }
+echo 'modforge-os readiness checklist'
+ask 'Is the intended game and profile selected?' || true
+ask 'Are controller input and storage ready?' || true
+ask 'Have you checked compatibility and hidden notifications?' || true
+echo 'Checklist complete. Answers were not saved or transmitted.'

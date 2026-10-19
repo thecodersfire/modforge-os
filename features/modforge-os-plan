@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+mkdir -p "$HOME/Documents/modforge-os-session-plans"
+file="$HOME/Documents/modforge-os-session-plans/plan-$(date +%Y%m%d-%H%M%S).md"
+{
+ printf '# modforge-os session plan\n\n'
+ printf 'Created: %s\n\n' "$(date -Is)"
+ printf 'Purpose: game modding\n\n## Prompts\n'
+ printf '%s\n' '- Which game or track are you playing?' '- What is your session goal and time limit?' '- Which controller, graphics, or capture settings need checking?'
+ printf '\n## Notes\n'
+} > "$file"
+nano "$file"
+printf 'Saved locally: %s\n' "$file"

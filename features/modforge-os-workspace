@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+base="$HOME/Documents/modforge-os-workspace"
+mkdir -p "$base/Game Notes" "$base/Screenshots" "$base/Capture Plans"
+printf 'Workspace ready: %s\n' "$base"
